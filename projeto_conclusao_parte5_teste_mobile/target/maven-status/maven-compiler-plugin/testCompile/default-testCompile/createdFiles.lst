@@ -1,0 +1,4 @@
+br\com\projetoconclusao\mobile\calculadora\BaseTest.class
+br\com\projetoconclusao\mobile\calculadora\SomaCsvComPageObjectTest.class
+br\com\projetoconclusao\mobile\calculadora\SomaSimplesTest.class
+br\com\projetoconclusao\mobile\calculadora\pages\CalculadoraPage.class
